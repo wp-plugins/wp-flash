@@ -1,6 +1,6 @@
-WP-Flash
+=== Plugin Name ===
 Contributors: cyberseo
-Donate link: 
+Donate link: #
 Tags: flash
 Requires at least: 2.0.0
 Tested up to: 3.2.1
