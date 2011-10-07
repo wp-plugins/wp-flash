@@ -12,14 +12,14 @@ Innserts the Adobe Flash animation into WordPress blog posts, pages and RSS feed
 
 The WP-Flash plugin allows you to easily insert the Adobe flash animation into WordPress blogs, using the following pseudo-code:
 
-<strong>[swf:url width height]</strong>
+	[swf:url width height]
 
-where:
-<ul>
-    <li>url - URL of the flash object (SWF file) which you want to embed;</li>
-    <li>width - width of the flash object;</li>
-    <li>height - height of the flash object.</li>
-</ul>
+<strong>where:</strong>
+* url - URL of the flash object (SWF file) which you want to embed;
+* width - width of the flash object;
+* height - height of the flash object.
+
+More usage info can be found at the [plugin's homepage](http://www.cyberseo.net/wp-flash/ "WP Flash").
 
 == Installation ==
 
