@@ -34,7 +34,7 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 
 == Screenshots ==
 
-The plugin has no user interface, so there is no screenshots
+The plugin has no user interface, so there is no screenshots.
 
 == Changelog ==
 
