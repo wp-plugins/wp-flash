@@ -14,7 +14,9 @@ The WP-Flash plugin allows you to easily insert the Adobe flash animation into W
 
 	[swf:url width height]
 
-<strong>where:</strong>
+
+where:
+
 * url - URL of the flash object (SWF file) which you want to embed;
 * width - width of the flash object;
 * height - height of the flash object.
