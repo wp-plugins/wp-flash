@@ -5,7 +5,7 @@ Version: 1.1
 Author: CyberSEO.net
 Author URI: http://www.cyberseo.net/
 Plugin URI: http://www.cyberseo.net/wp-flash/
-Description: The WP-Flash plugin allows one to easily insert flash animation into WordPress blogs, using the following tag style: <strong>[swf:url width height]</strong>. Where <strong>url</strong> - URL of the flash object (SWF file) you want to embed; <strong>width</strong> - width of the flash object; <strong>height</strong> - height of the flash object.
+Description: Innserts the Adobe Flash animation into WordPress blog posts, pages and RSS feeds, using the following tag style: <strong>[swf:url width height]</strong>. Where <strong>url</strong> - URL of the flash object (SWF file) you want to embed; <strong>width</strong> - width of the flash object; <strong>height</strong> - height of the flash object.
 */
 
 if (! function_exists ( "add_filter" )) {

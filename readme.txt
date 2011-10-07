@@ -1,17 +1,18 @@
-=== Plugin Name ===
-Contributors: cyberseo
+=== WP Flash ===
+Contributors: CyberSEO.net
+Author: CyberSEO.net
 Tags: flash, animation, swf
 Requires at least: 2.0.0
 Tested up to: 3.2.1
 Stable tag: 4.3
 
-Allows to easily insert Adobe Flash animation into WordPress posts.
+Innserts the Adobe Flash animation into WordPress blog posts, pages and RSS feeds.
 
 == Description ==
 
-The WP-Flash plugin allows one to easily insert flash animation into WordPress blogs, using the following pseudo-code:
+The WP-Flash plugin allows you to easily insert the Adobe flash animation into WordPress blogs, using the following pseudo-code:
 
-[swf:url width height]
+<strong>[swf:url width height]</strong>
 
 where:
 <ul>
@@ -33,6 +34,13 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 
 == Screenshots ==
 
+The plugin has no user interface, so there is no screenshots
+
 == Changelog ==
 
+= 1.1 =
+* Initial public release.
+
 == Upgrade Notice ==
+
+Upgrade using the automatic upgrade in Wordpress Admin.
