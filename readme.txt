@@ -1,7 +1,7 @@
 === WP Flash ===
-Contributors: CyberSEO.net
+Contributors: CyberSEO
 Plugin URI: http://www.cyberseo.net/wp-flash/
-Author: CyberSEO.net
+Author: CyberSEO
 Author URI: http://www.cyberseo.net/
 Tags: flash, animation, swf
 Requires at least: 2.0.0
