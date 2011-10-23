@@ -9,7 +9,6 @@ Description: Innserts the Adobe Flash animation into WordPress blog posts, pages
 */
 
 if (! function_exists ( "add_filter" )) {
-	echo "WP-Flash v.1.1";
 	die ();
 }
 

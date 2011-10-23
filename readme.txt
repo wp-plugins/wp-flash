@@ -23,8 +23,6 @@ where:
 * width - width of the flash object;
 * height - height of the flash object.
 
-More usage info can be found at the [plugin's homepage](http://www.cyberseo.net/wp-flash/ "WP Flash").
-
 == Installation ==
 
 1. Upload 'wp-flash.php' to the '/wp-content/plugins/' directory
@@ -38,7 +36,7 @@ The support forums can be found at http://www.cyberseo.net/forum/.
 
 == Screenshots ==
 
-The plugin has no user interface, so there is no screenshots.
+The plugin has no user interface.
 
 == Changelog ==
 
