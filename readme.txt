@@ -5,7 +5,7 @@ Author: CyberSEO
 Author URI: http://www.cyberseo.net/
 Tags: flash, animation, swf
 Requires at least: 2.0.0
-Tested up to: 3.3.1
+Tested up to: 4.0.1
 Stable tag: 4.3
 
 Innserts the Adobe Flash animation into WordPress blog posts, pages and RSS feeds.
@@ -42,11 +42,14 @@ The plugin has no user interface.
 
 == Changelog ==
 
-= 1.1 =
-* Initial public release.
+= 1.3 =
+* Fully compatible with WordPress 4.0.1
 
 = 1.2 =
 * Optional 'bgcolor' and 'wmode' parameters were added.
+
+= 1.1 =
+* Initial public release.
 
 == Upgrade Notice ==
 
