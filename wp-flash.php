@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: WP-Flash
- Version: 1.4
+ Version: 1.5
  Author: CyberSEO.net
  Author URI: http://www.cyberseo.net/
  Plugin URI: http://www.cyberseo.net/wp-flash/
